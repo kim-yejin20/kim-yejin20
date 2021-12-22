@@ -7,7 +7,6 @@
 
 
 👉🏻 <a href="https://velog.io/@yejin20/">블로그</a> / 개발하며 배운 것들을 기록합니다.  
-👉🏻 <a href="https://www.instagram.com/dev_idea.note/">인스타그램</a> / 떠오르는 생각들을 잊지 않으려고 기록해둡니다. 
 
 
 
