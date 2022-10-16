@@ -6,11 +6,15 @@
 앞으로도 계속 다양한 곳에서 더 깊은 고뇌를 하고 싶습니다.  
 
 
-👉🏻 <a href="https://velog.io/@yejin20/">블로그</a> / 개발하며 배운 것들을 기록합니다.  
+
 
 
 
 <!--
+
+👉🏻 <a href="https://velog.io/@yejin20/">블로그</a> / 개발하며 배운 것들을 기록합니다.  
+
+
 **kim-yejin20/kim-yejin20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
